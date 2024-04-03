@@ -24,6 +24,8 @@
    
 }
 
+/* Cabeçalho */
+
 header {
     height: 150px;
     background-color: var(--background-color2);
@@ -91,6 +93,8 @@ header {
     font-size: 1.1em;
 }
 
+/* Primeira sessão */
+
 .section1 {
     background-color: var(--background-color2);
 }
@@ -147,6 +151,8 @@ header {
 .section1-img img {
    height: 575px;
 }
+
+/* Segunda sessão */
 
 .section2 {
     background-color: var(--background-color3);
@@ -209,6 +215,8 @@ header {
     font-size: 1.5em;
     outline: none;
 }
+
+/* Terceira sessão */
 
 .section3 {
     background-color: var(--background-color2);
@@ -285,6 +293,8 @@ header {
     font-size: 2em;
     font-weight: bold;
 }
+
+/* Rodapé  */
 
 footer {
     background-color: var(--background-color3);
